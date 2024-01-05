@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rameshedi" target="blank"><img src="https://img.shields.io/twitter/follow/rameshedi?logo=twitter&style=for-the-badge" alt="rameshedi" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ranganathedirisingha@gmail.com**
 
