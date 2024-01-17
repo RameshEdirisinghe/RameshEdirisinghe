@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramesh Edirisinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software developer from Sri Lanka</h3>
 <img align="right" alt="coding" width"400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 
