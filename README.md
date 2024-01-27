@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Software Developer from Sri Lanka 🇱🇰<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning React<br> - 📫 How to reach me ranganathedirisingha@gmail.com</p>
+<p align="left">I'm Trainee Software Developer from Sri Lanka 🇱🇰<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning React<br> - 📫 How to reach me ranganathedirisingha@gmail.com</p>
 
 ###
 
