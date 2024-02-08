@@ -63,19 +63,26 @@
 
 ###
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RameshEdirisinghe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<a href="https://github.com/RameshEdirisinghe">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RameshEdirisinghe&theme=transparent" height="180em" />
 </div>
-
+  
 ###
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&theme=transparent" alt="RameshEdirisinghe" /></p>
 
+
+  
+###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RameshEdirisinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RameshEdirisinghe&layout=compact&theme=transparent" alt=RameshEdirisinghe />
 </div>
+
 
 ###
 
