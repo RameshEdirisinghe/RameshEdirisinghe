@@ -83,11 +83,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Ranganath">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s?si=6e899cf2bcef4b30&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
