@@ -1,4 +1,4 @@
-<h3 align="left">Helo World! 👀 I'm Ramesh </h3>
+<h3 align="left">ツ Hello, I'm Ramesh 👀</h3>
 
 ###
 
