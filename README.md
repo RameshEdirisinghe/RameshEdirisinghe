@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">How to reach me ranganathedirisingha@gmail.com</p>
+<p align="left">How to reach me - ranganathedirisingha@gmail.com</p>
 
 ###
 
