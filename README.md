@@ -1,8 +1,8 @@
-<h3 align="left">About Me 👀</h3>
+<h3 align="left">Helo World! 👀</h3>
 
 ###
 
-<p align="left">I'm Trainee Software Developer from Sri Lanka 🇱🇰<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning React<br> - 📫 How to reach me ranganathedirisingha@gmail.com</p>
+<p align="left">How to reach me ranganathedirisingha@gmail.com</p>
 
 ###
 
