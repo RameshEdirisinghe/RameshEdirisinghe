@@ -1,19 +1,22 @@
+
+
+
 <h1 align="center">ツ Hello World! 👀</h1>
 
-<hr>
+
 <br>
-<table border="0" width="100%" align="center">
-<tr >
-  <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  /></td>
 
 
+  <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  /></div>
 
- <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RameshEdirisinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
-</td>
-</tr>
-</table>
 
+<br>
+ <div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RameshEdirisinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
+
+
+<br>
 <br>
 
 <div align="center">
