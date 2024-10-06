@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">ツ Hello World! 👀</h1>
+<h1 align="center">Hello World! ツ </h1>
 
 
 <br>
