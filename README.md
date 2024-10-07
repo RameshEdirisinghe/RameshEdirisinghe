@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hello, Dev World! 🌍💻</h1>
+<h1 align="center">Hello, Dev World! 🌍</h1>
 
 
 <br>
