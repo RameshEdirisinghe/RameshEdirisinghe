@@ -87,8 +87,14 @@
 
 
 </div>
-
 <br>
+<br>
+<div align="center">
+  <a href="https://open.spotify.com/user/u947c8dgr8mdyou43kx4tmp2s">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <hr>
 
 <h3 align="center">How to reach me - <a href="mailto:ranganathedirisingha@gmail.com">ranganathedirisingha@gmail.com</a></h3>
@@ -115,13 +121,9 @@
   </a>
 </div>
 </br>
-<hr>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/u947c8dgr8mdyou43kx4tmp2s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
+
+
 
 
 
