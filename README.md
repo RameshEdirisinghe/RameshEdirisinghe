@@ -114,8 +114,9 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
-
 </br>
+<hr>
+
 <div align="center">
   <a href="https://open.spotify.com/user/u947c8dgr8mdyou43kx4tmp2s">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s&count=1" alt="Spotify recently played"  />
