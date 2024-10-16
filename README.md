@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 
- 
+<a href="https://visitcount.itsvg.in"> 
   <img src="https://visitcount.itsvg.in/api?id=RameshEdirisinghe&label=Profile%20Views&color=3&icon=5&pretty=false" />
  
 </a>
