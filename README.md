@@ -5,7 +5,14 @@
 
 
 <br>
+<div align="center">
 
+ 
+  <img src="https://visitcount.itsvg.in/api?id=RameshEdirisinghe&label=Profile%20Views&color=3&icon=5&pretty=false" />
+ 
+</a>
+</div>
+<br>
 
   <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  /></div>
 
