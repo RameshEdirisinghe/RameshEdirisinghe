@@ -14,7 +14,7 @@
 </div>
 <br>
 
-  <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  /></div>
+  <div align="center" width="100"><img src="https://github-readme-stats.vercel.app/api?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="streak graph"  /></div>
 
 
 <br>
