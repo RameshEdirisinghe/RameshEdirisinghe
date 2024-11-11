@@ -8,13 +8,13 @@
 <div align="center">
 
 <a href="https://visitcount.itsvg.in">
-  <ig src="https://visitcount.itsvg.in/api?id=RameshEdirisinghe&label=Profile%20Views&color=3&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=RameshEdirisinghe&label=Profile%20Views&color=3&icon=5&pretty=false" />
  
 </a>
 </div>
 <br>
 
-  <div align="center" width="100"><img src="https://github-readme-stats.vercel.app/api?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="streak graph"  /></div>
+  <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&theme=shadow_green&hide_border=false" alt="streak graph"  /></div>
 
 
 <br>
