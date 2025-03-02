@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="100" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="80" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
