@@ -31,63 +31,39 @@
 
   <br>
   
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  width="55" />
 
   <br>
  
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" width="55" />
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" width="55" />
 
 </div>
 
