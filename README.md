@@ -10,13 +10,14 @@
 <br>
 
   <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&theme=shadow_green&hide_border=false" alt="streak graph"  /></div>
-
 <br>
-
- <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RameshEdirisinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false&order=2" height="180" alt="languages graph"  />
+<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="GitHub stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RameshEdirisinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false&order=2" height="180" alt="languages graph"/>
 </div>
-
+</div>
 <br>
 
 <div align="center">
