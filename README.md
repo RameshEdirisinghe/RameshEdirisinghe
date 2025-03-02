@@ -1,5 +1,5 @@
 <h1 align="center"> < Hello, Dev World! 🌍 /> </h1>
-
+<h3 align="center">💻 Passionate Coder | 🎓 Undergraduate at UOM</h3>
 <div align="center">
 <a href="https://visitcount.itsvg.in">
   <ig src="https://visitcount.itsvg.in/api?id=RameshEdirisinghe&label=Profile%20Views&color=3&icon=5&pretty=false" />
