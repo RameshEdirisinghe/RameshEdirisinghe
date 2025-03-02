@@ -19,15 +19,15 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="62" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="62" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="62" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="62" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width=62" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="62" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="62" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="62" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="62" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="60" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="60" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="60" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="60" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width=60" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="60" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="60" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="60" />
 
   <br>
   
