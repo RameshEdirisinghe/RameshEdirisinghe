@@ -85,24 +85,15 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramesh-edirisinghe-2b070225b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/RameshEdi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-   <a href="https://stackoverflow.com/users/23367202/ramesh-edirisinghe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1193615014171508866" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/ranganath_02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://web.facebook.com/ramesh.ranganath.79/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
+<a target="_blank" href="https://www.linkedin.com/in/ramesh-edirisinghe-2b070225b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=507dba" alt="linkedin" /></a>
+<a target="_blank" href="https://twitter.com/RameshEdi" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/ramesh-edirisinghe" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=ff5c06" alt="stackoverflow" /></a>
+<a target="_blank" href="https://www.behance.net/rameshranganath" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=2300ff" alt="behance" /></a>
+<a href="https://discordapp.com/users/1193615014171508866" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8c7ee3&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  /> </a>
+<a target="_blank" href="https://www.instagram.com/ranganath_02" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=fd0453" alt="instagram" /></a>
+<a target="_blank" href="https://www.facebook.com/ramesh.ranganath.79" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=00cdff" alt="facebook" /></a>
+
+
 </div>
 </br>
 
