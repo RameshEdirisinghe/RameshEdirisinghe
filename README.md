@@ -4,7 +4,8 @@
 
 <div align="center">
   
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe)
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe) 
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
 </div>
 
 <div align="center">
