@@ -74,7 +74,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo" width="55" />
 
 </div>
 
