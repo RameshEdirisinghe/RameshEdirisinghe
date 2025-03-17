@@ -1,4 +1,4 @@
-  <p > <img src="https://komarev.com/ghpvc/?username=RameshEdirisinghe&label=Profile%20views&color=4d9e3f&style=for-the-badge" alt="RameshEdirisinghe" /> </p>
+<!-- <p > <img src="https://komarev.com/ghpvc/?username=RameshEdirisinghe&label=Profile%20views&color=4d9e3f&style=for-the-badge" alt="RameshEdirisinghe" /> </p> -->
 <h1 align="center"> < Hello, Dev World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="35" height="35" /> /> </h1>
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Passionate Coder | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" />  Undergraduate at UOM</h3>
 
