@@ -82,11 +82,11 @@
 <br>
 
 
-<!-- <div align="center">
-  <a href="https://open.spotify.com/user/u947c8dgr8mdyou43kx4tmp2s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s&count=1" alt="Spotify recently played"  />
-  </a>
-</div> -->
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=u947c8dgr8mdyou43kx4tmp2s&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=11870d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=u947c8dgr8mdyou43kx4tmp2s&redirect=true)
+
+</div>
 
 <hr>
 
