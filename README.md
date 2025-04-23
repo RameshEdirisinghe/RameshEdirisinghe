@@ -8,15 +8,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 </div>
 
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-  <ig src="https://visitcount.itsvg.in/api?id=RameshEdirisinghe&label=Profile%20Views&color=3&icon=5&pretty=false" />
-</a>
-</div>
     
 <br>
-
-  <div align="center" width="100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RameshEdirisinghe&theme=shadow_green&hide_border=false" /></div>
+  <div align="center" width="100"><img src="https://nirzak-streak-stats.vercel.app/?user=RameshEdirisinghe&theme=shadow_green&hide_border=false" /></div>
 <br>
 <div align="center">
 <div style="display: flex; justify-content: space-between; align-items: center;">
