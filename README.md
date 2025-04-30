@@ -5,9 +5,10 @@
 <div align="center">
   
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe) 
-  <a href="https://about.me/rameshedirisinghe" target="_blank"><img src="https://img.shields.io/badge/About.me-00A98F?logo=About.me" alt="rameshEdirisinghe About.me" /></a>
-    [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://rameshedirisinghe.github.io/My-Portfolio/)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
+ ![about_me](https://img.shields.io/badge/about.me-WebSite-white?link=https%3A%2F%2Fabout.me%2Frameshedirisinghe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://rameshedirisinghe.github.io/My-Portfolio/)
+![WhatsApp](https://img.shields.io/badge/whatsapp-chat-green?link=https%3A%2F%2Fwa.me%2Fqr%2FSFAUXWBPOKAYE1)
+
 </div>
 
     
