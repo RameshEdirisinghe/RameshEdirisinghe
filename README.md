@@ -6,7 +6,7 @@
   
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe) 
   <a href="https://about.me/rameshedirisinghe" target="_blank"><img src="https://img.shields.io/badge/About.me-00A98F?logo=About.me" alt="rameshEdirisinghe About.me" /></a>
-    [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://portfolio-2025-xi-brown.vercel.app/)
+    [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://rameshedirisinghe.github.io/My-Portfolio/)
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 </div>
 
