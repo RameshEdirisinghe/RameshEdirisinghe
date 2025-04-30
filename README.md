@@ -5,7 +5,7 @@
 <div align="center">
   
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe) 
- ![about_me](https://img.shields.io/badge/about.me-WebSite-white?link=https%3A%2F%2Fabout.me%2Frameshedirisinghe)
+ [![about_me](https://img.shields.io/badge/about.me-WebSite-white?link=https%3A%2F%2Fabout.me%2Frameshedirisinghe)](https://about.me/rameshedirisinghe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://rameshedirisinghe.github.io/My-Portfolio/)
 ![WhatsApp](https://img.shields.io/badge/whatsapp-Contact-green?link=https%3A%2F%2Fwa.me%2Fqr%2FSFAUXWBPOKAYE1)
 
