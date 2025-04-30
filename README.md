@@ -5,6 +5,7 @@
 <div align="center">
   
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe) 
+  <a href="https://about.me/rameshedirisinghe" target="_blank"><img src="https://img.shields.io/badge/About.me-00A98F?logo=About.me" alt="rameshEdirisinghe About.me" /></a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 </div>
 
