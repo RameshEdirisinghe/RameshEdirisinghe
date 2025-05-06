@@ -17,8 +17,8 @@
 <br>
 <div align="center">
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" height="180" />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" height="180" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=RameshEdirisinghe&hide_border=false&include_all_commits=false&count_private=false&theme=shadow_green" height="180" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RameshEdirisinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false&order=2" height="180" alt="languages graph"/>
 </div>
