@@ -12,11 +12,11 @@
 </h3>
 
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe.svg)](https://user-badge.committers.top/sri_lanka/RameshEdirisinghe)
-  &nbsp;&nbsp;
+  &nbsp;
   <br>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://portfolio-v2-sable-omega-12.vercel.app/)
-  [![about_me](https://img.shields.io/badge/about.me-Profile-white?style=flat)](https://about.me/rameshedirisinghe)
-   [![WhatsApp](https://img.shields.io/badge/whatsapp-Contact-green)](https://wa.me/qr/SFAUXWBPOKAYE1)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://portfolio-v2-sable-omega-12.vercel.app/)&nbsp;
+  [![about_me](https://img.shields.io/badge/about.me-Profile-white?style=flat)](https://about.me/rameshedirisinghe)&nbsp;
+   [![WhatsApp](https://img.shields.io/badge/whatsapp-Contact-green)](https://wa.me/qr/SFAUXWBPOKAYE1)&nbsp;
 </div>
 
 <br/>
