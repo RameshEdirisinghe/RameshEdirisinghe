@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=RameshEdirisinghe&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RameshEdirisinghe&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
