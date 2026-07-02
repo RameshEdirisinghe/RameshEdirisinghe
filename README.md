@@ -31,9 +31,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" height="166" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" height="166" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RameshEdirisinghe&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
 </div>
 
 <br/>
